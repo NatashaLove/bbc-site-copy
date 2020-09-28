@@ -1,0 +1,50 @@
+body {
+   font-family:  'Work Sans', sans-serif;
+  
+}
+
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(51,51,51);
+    font-weight:615;
+}
+
+.navbar-collapse {
+    flex-grow: 0;
+    font-size: 13px;
+    
+}
+
+
+.container {
+    max-width: 1300px;
+}
+
+
+.nav-item {
+    padding: .450em 12px .250em;
+    min-height: 2em;
+}
+
+#search {
+    width: 142px;
+    padding-left: 6px;
+    float:left;
+    background: #e4e4e4;
+    font-size: 13px;
+    height: 1.846em;
+    min-height: 24px;
+}
+
+#signin  {
+    position: relative;
+    margin: 0;
+    padding: 6px, 200px, 4px, 42px;
+    min-width: 8.62em;
+    border: 0;
+
+}
+
+#navbar {
+   color: rgb(51, 51, 51);
+}
