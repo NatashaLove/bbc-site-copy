@@ -25,26 +25,60 @@ body {
     padding: .450em 12px .250em;
     min-height: 2em;
 }
+.form-inline {
+    padding-left: 20px;
+    min-width: 200px;
+}
 
 #search {
     width: 142px;
+    margin: 8px, 0, 7px, 16px;
     padding-left: 6px;
     float:left;
     background: #e4e4e4;
     font-size: 13px;
+    color:internal-light-dark;
+    font-weight: 600;
     height: 1.846em;
     min-height: 24px;
+    border: none;
 }
 
 #signin  {
     position: relative;
     margin: 0;
     padding: 6px, 200px, 4px, 42px;
-    min-width: 8.62em;
+    min-width: 12em;
     border: 0;
 
 }
 
+#magglass {
+    width: 32px;
+    height: 24px;
+    background: #e4e4e4;
+    border-radius: 0;
+    cursor: pointer;
+    border: none;
+    
+    display: block;
+    line-height: 0;
+   
+    background-position: center center;
+    background-size: 16px 16px;
+}
+
 #navbar {
    color: rgb(51, 51, 51);
+   margin-left: 0;
+   margin-right: 0;
+}
+
+#navbarDropdownMenuLink {
+    position: relative;
+    margin: 0;
+    padding: 6px, 200px, 4px, 42px;
+    min-width: 7em;
+    max-width: 100%;
+    background-color: white;
 }
