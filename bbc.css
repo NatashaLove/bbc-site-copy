@@ -66,6 +66,24 @@ span:hover {
     border-color: rgb(187, 69, 79);
 }
 
+.text {
+    
+    color:rgb(64, 64, 64);
+      
+   position: relative;
+   z-index: 999;
+   line-height: 24px;
+margin-bottom: 8px;
+margin-left: 10rem;
+margin-top: 8px;
+padding-bottom: 2px;
+visibility: visible;
+   font-weight: normal;
+border-bottom: 3px solid #bb1919;
+font-size: 1.25rem;
+display: inline-block;
+}
+
 #search {
     width: 142px;
     margin: 8px, 0, 7px, 16px;
