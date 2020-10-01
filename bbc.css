@@ -11,6 +11,20 @@ span .border-right{
 span:hover {
     text-decoration: underline;
   }
+a #listnews{
+    font-weight: 300;
+    color: rgb(30, 30, 30);
+    font-size: 16px;
+    line-height: 1rem;
+}
+
+a {
+    color:rgb(90, 90, 90);
+}
+a :hover {
+    color: rgb(50, 140, 170);
+}
+
 
 .border-right {
     margin: 0;
@@ -66,6 +80,12 @@ span:hover {
     border-color: rgb(187, 69, 79);
 }
 
+#topic {
+    padding-bottom:1rem;
+    color:rgb(90, 90, 90);
+      
+}
+
 .text {
     
     color:rgb(64, 64, 64);
@@ -83,6 +103,12 @@ border-bottom: 3px solid #bb1919;
 font-size: 1.25rem;
 display: inline-block;
 }
+
+
+
+#topic:hover {
+    color: rgb(50, 140, 170);
+}  
 
 #search {
     width: 142px;
@@ -162,4 +188,25 @@ display: inline-block;
 }
 #more {
     color: whitesmoke;
+}
+
+
+#mainnews {
+   
+    color: rgb(90, 90, 90);
+    
+}
+
+
+#listnews :hover {
+    color: rgb(50, 140, 170);
+}
+
+#listnews {
+    font-weight: 300;
+    color: rgb(30, 30, 30);
+    font-size: 16px;
+    line-height: 1rem;
+
+
 }
