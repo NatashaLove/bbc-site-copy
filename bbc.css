@@ -94,16 +94,16 @@ a :hover {
    position: relative;
    z-index: 999;
    line-height: 24px;
-margin-bottom: 8px;
-margin-left: 10rem;
-margin-top: 8px;
-padding-bottom: 2px;
-visibility: visible;
-   font-weight: normal;
-border-bottom: 3px solid #bb1919;
-font-size: 1.25rem;
-display: inline-block;
-}
+    margin-bottom: 8px;
+    /*margin-left: 10rem;*/
+    margin-top: 8px;
+    padding-bottom: 2px;
+    visibility: visible;
+    font-weight: normal;
+    border-bottom: 3px solid #bb1919;
+    font-size: 1.25rem;
+    display: inline-block;
+    }
 
 
 
@@ -154,8 +154,6 @@ display: inline-block;
    /*padding-left:10rem;*/
    position: relative;
    z-index: 999;
-
-   
 
 }
 
