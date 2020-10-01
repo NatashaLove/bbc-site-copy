@@ -42,7 +42,8 @@ a :hover {
     font-weight: 400;
     font-size: 13px;
     color: whitesmoke;
-    padding-right: 1em, .5em;
+    padding-right: 1rem, .5rem;
+    
 
     
 }
@@ -150,7 +151,7 @@ display: inline-block;
 
 #navbar {
    color: rgb(51, 51, 51);
-   padding-left:10em;
+   /*padding-left:10rem;*/
    position: relative;
    z-index: 999;
 
@@ -179,7 +180,7 @@ display: inline-block;
 #nav {
     background-color: rgb(187, 25, 25);
     color: whitesmoke;
-    padding-left:10rem;
+    /*padding-left:10rem;*/
     padding-top: 10px;
    position: relative;
    z-index: 999;
