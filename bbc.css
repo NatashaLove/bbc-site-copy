@@ -6,6 +6,7 @@ body {
 p {
     font-size: 0.875rem;
     font-family: 'Raleway', sans-serif;
+   
 }
 
 span .border-right{
@@ -20,6 +21,7 @@ a #listnews{
     color: rgb(30, 30, 30);
     font-size: 16px;
     line-height: 1rem;
+   
 }
 
 a {
@@ -35,7 +37,8 @@ h2 {
 }
 
 hr {
-    width:70% ;
+   margin-left: 10rem;
+   align-items: end;
     
 }
 
@@ -125,6 +128,7 @@ hr {
         color: rgb(30, 30, 30);
         font-size: 16px;
         line-height: 1rem;
+        padding-top: 0.5rem ;
     }
     
 .listnews :hover {
