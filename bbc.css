@@ -4,7 +4,7 @@ body {
 }
 
 p {
-    font-size: 0.875rem;
+    font-size: 0.8rem;
     font-family: 'Raleway', sans-serif;
    
 }
@@ -145,6 +145,7 @@ hr {
     width: 50 px;
 }
 
+
 #search {
     width: 142px;
     margin: 8px, 0, 7px, 16px;
@@ -230,6 +231,11 @@ hr {
     
 }
 
+#media {
+    font-size: .8125rem;
+    color:rgb(90, 90, 90);
+    font-weight: 200;
+}
 
 
 
