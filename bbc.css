@@ -9,6 +9,13 @@ p {
    
 }
 
+a {
+    color:rgb(90, 90, 90);
+}
+a :hover {
+    color: rgb(50, 140, 170);
+}
+
 span .border-right{
     border-color: rgb(187, 69, 79);
 }
@@ -24,16 +31,20 @@ a #listnews{
    
 }
 
-a {
-    color:rgb(90, 90, 90);
-}
-a :hover {
-    color: rgb(50, 140, 170);
-}
+
 
 h2 {
     font-size: 1.5rem;
     font-weight: lighter;
+    color: #fff;
+    line-height: 1.75rem;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-family: 'Heebo', sans-serif;
+    font-weight: lighter;
+    font-size: 1.5rem;
 }
 
 hr {
@@ -41,6 +52,7 @@ hr {
    align-items: end;
     
 }
+
 
 .border-right {
     margin: 0;
@@ -136,6 +148,7 @@ hr {
     }
 
 
+
 #topic:hover {
     color: rgb(50, 140, 170);
 }  
@@ -145,6 +158,12 @@ hr {
     width: 50 px;
 }
 
+.flex-sm-fill {
+    padding-right: 16px;
+    width: 25%;
+    color: #fff;
+    
+}
 
 #search {
     width: 142px;
@@ -220,6 +239,12 @@ hr {
    float: center;
     
 }
+
+#nav_b {
+    background-color: #2f2f2f;
+    font-family: 'Heebo', sans-serif;
+}
+
 #more {
     color: whitesmoke;
 }
@@ -237,6 +262,14 @@ hr {
     font-weight: 200;
 }
 
+#footer {
+    background-color: #4c4c4c;
+    color: #fff;
+    border-color:rgb(148, 148, 148);
+    border-top-color: rgb(148, 148, 148);
+    border-top-style: solid;
+    border-top-width: 1px;
+}
 
 
 
