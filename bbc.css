@@ -167,8 +167,7 @@ hr {
 
 .foot {
 
-    padding-right: 19px;
-    margin-left: 19px;
+   
     padding-top: 1.23em;
     display: block;
     border-right: 1px solid #949494;
@@ -283,8 +282,20 @@ hr {
     border-top-width: 1px;
 }
 
+#end {
+    border-top: 1px solid #949494;
+    box-sizing: content-box;
+    font-size: 13px;
+    font-family: 'Heebo', sans-serif;
 
+    font-weight: lighter;
+}
 
+#co {
+    font-family: 'Heebo', sans-serif;
+    font-size: 13px;
+    font-weight: lighter;
+}
 /* 
 for width of all content -make a class "width" and apply to every div/section to have the same padding/margin
 + have it flexible - less with small screeb
